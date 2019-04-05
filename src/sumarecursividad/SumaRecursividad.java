@@ -19,6 +19,7 @@ public class SumaRecursividad {
         int numero = entrada.nextInt();
         SumaRecursividad.fact(numero);
         System.out.println(numero+"! = "+fact(numero));
+        //Solo es una prueba de actualización
     }
 }
     
